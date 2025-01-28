@@ -4,9 +4,7 @@ ___
 ### Education 🎓
 At the **University of Notre Dame**, I'm pursuing a double major in **Economics** and **Romance Languages and Literature-Spanish**, with a minor in **Data Science**
 ___
-### Technical Skills 🤓
-- Python (Pandas, Matplotlib) 
-- Data Visualization (Seaborn) 
+<img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/03d8e33faa0f96ac6192256645bb6b76ba0e59ec/Screenshot%202025-01-27%20at%2021.26.47.png">
 ___
 ### Goals & Interests 🧠
 - Gain a strong foundation in **data analytics** through hands-on experience with Python libraries like Pandas and Seaborn, learning essential skills for **data manipulation**.
