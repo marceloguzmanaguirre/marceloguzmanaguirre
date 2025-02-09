@@ -13,5 +13,5 @@ ___
 - Explore <ins>neural networks</ins>, <ins>natural language processing</ins>, and <ins>large language models</ins>
 ___
 ###  Data Science Projects 🚀
-- <a href=mainreadme>"Intro to Data Science" Portfolio</a>
+- <a href='https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio'>"Intro to Data Science" Portfolio</a>
 ___
