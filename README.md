@@ -4,7 +4,7 @@ ___
 ### Education 🎓
 At the **University of Notre Dame**, I'm pursuing a double major in **Economics** and **Romance Languages and Literature-Spanish**, with a minor in **Data Science**
 ___
-<img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/873c65dd6a9dba3f21b842ce35a7295367ba88a2/FinalTech%20(1).png">
+<img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/main/FinalTech%20(900%20x%20300%20px).png">
 
 ___
 ### Goals & Interests 🧠
