@@ -20,7 +20,7 @@ ___
  
 ___
 
-## 📚 Previous Portfolio Updates 📚
+### 📚 Previous Portfolio Updates 📚
 
 | Update | Project | Description |
 |--------|---------|-------------|
