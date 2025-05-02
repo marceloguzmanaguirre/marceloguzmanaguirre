@@ -19,9 +19,10 @@ ___
 
 ___
 
-### 📁 Project Highlights
+### 📁 Project Highlights 📁
 
-This profile features work developed as part of my *Intro to Data Science* coursework. Explore the [repository](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio) to dive deeper into my current project—the Unsupervised ML App—or revisit earlier portfolio updates that shaped my learning journey.
+
+This profile features work developed as part of my coursework for *Introduction to Data Science* at the University of Notre Dame. You can explore the [full portfolio repository](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio) to see how my technical skills progressed—from basic data exploration and supervised learning to clustering and dimensionality reduction. Featured below is my final project, the **Unsupervised ML App**, along with earlier portfolio updates that helped shape my learning.
 
 <a href="https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLUnsupervisedApp">
   <img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/e2c4d493e42436a611760edf290fdc56851b46ef/ProfileCurrentProjectUMLAppUpdated.png" alt="Unsupervised ML App">
@@ -29,7 +30,7 @@ This profile features work developed as part of my *Intro to Data Science* cours
 
 <div align="center">
 
-### 📚 Previous Portfolio Updates
+### 📚 Previous Portfolio Updates 📚
 
 </div>
 
