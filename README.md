@@ -32,7 +32,7 @@ ___
 
 ___
 
-### 🔗 Contact Info 🔗
+### 🔗 Let's Connect! 🔗
 
 - [LinkedIn](https://www.linkedin.com/in/marceloguzmanaguirre)
 - [Email](mailto:mguzmana@nd.edu)
