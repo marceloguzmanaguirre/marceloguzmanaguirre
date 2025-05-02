@@ -20,11 +20,11 @@ ___
  
 ___
 
-## 📚 Previous Portfolio Updates
+## 📚 Previous Portfolio Updates 📚
 
 | Update | Project | Description |
 |--------|---------|-------------|
-| 🔹 Portfolio Update 1 | **NYC Air Quality Explorer** | Interactive Streamlit app to explore public air quality datasets with dynamic filtering by pollutant, time, and location. |
-| 🔹 Portfolio Update 2 | **ML Midterm Notebook** | Jupyter notebook applying supervised learning and evaluation metrics using scikit-learn. |
-| 🔹 Portfolio Update 3 | **Supervised ML App** | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
+| Portfolio Update 1 | **NYC Air Quality Explorer** | Interactive Streamlit app to explore public air quality datasets with dynamic filtering by pollutant, time, and location. |
+| Portfolio Update 2 | **ML Midterm Notebook** | Jupyter notebook applying supervised learning and evaluation metrics using scikit-learn. |
+| Portfolio Update 3 | **Supervised ML App** | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
 ___
