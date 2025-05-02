@@ -11,8 +11,10 @@ ___
 - Build and evaluate <ins>supervised learning models</ins> such as Logistic Regression and Decision Trees, focusing on user-guided training, model metrics, and visual interpretation using scikit-learn.
 - Apply <ins>unsupervised learning methods</ins> including KMeans, Hierarchical Clustering, and PCA to uncover patterns in datasets, with an emphasis on dimensionality reduction and cluster visualization.
 ___
+
 <img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/0fb2fb88083c3c3329fa995a192aac04bddd1004/ProfileTechnicalSkillsUpdated.png">
 ___
+
 <img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/0fb2fb88083c3c3329fa995a192aac04bddd1004/ProfileTechnicalSkillsUpdated.png">
 ___
 
