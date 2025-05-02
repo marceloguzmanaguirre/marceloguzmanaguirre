@@ -20,8 +20,11 @@ ___
  
 ___
 
-### Goals & Interests 🧠
-- Gain a strong foundation in <ins>data exploration</ins> through interactive tools built with Streamlit, applying filtering, selection, and visualization techniques using libraries like Pandas and Seaborn.
-- Build and evaluate <ins>supervised learning models</ins> such as Logistic Regression and Decision Trees, focusing on user-guided training, model metrics, and visual interpretation using scikit-learn.
-- Apply <ins>unsupervised learning methods</ins> including KMeans, Hierarchical Clustering, and PCA to uncover patterns in datasets, with an emphasis on dimensionality reduction and cluster visualization.
+## 📚 Previous Portfolio Updates
+
+| Update | Project | Description |
+|--------|---------|-------------|
+| 🔹 Portfolio Update 1 | **NYC Air Quality Explorer** | Interactive Streamlit app to explore public air quality datasets with dynamic filtering by pollutant, time, and location. |
+| 🔹 Portfolio Update 2 | **ML Midterm Notebook** | Jupyter notebook applying supervised learning and evaluation metrics using scikit-learn. |
+| 🔹 Portfolio Update 3 | **Supervised ML App** | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
 ___
