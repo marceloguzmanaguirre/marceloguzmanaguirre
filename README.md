@@ -31,3 +31,8 @@ ___
 | Portfolio Update 3 | [**Supervised ML App**](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLStreamlitApp) | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
 
 ___
+
+### 🔗 Contact Info 🔗
+
+- [LinkedIn](www.linkedin.com/in/marceloguzmanaguirre)  
+- [Email](mailto:mguzmana@nd.edu)
