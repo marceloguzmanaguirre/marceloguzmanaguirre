@@ -34,5 +34,5 @@ ___
 
 ### 🔗 Contact Info 🔗
 
-- [LinkedIn](www.linkedin.com/in/marceloguzmanaguirre)  
+- [LinkedIn](https://www.linkedin.com/in/marceloguzmanaguirre)
 - [Email](mailto:mguzmana@nd.edu)
