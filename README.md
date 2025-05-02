@@ -29,7 +29,9 @@ This profile features work developed as part of my coursework for *Introduction 
 </a>
 
 <div align="center">
+
 ### 📚 Previous Portfolio Updates 📚
+
 </div>
 
 | Update | Project | Description |
