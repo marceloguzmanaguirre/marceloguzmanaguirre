@@ -16,6 +16,10 @@ ___
  
 ___
 
+<img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/3851d21c9a046f04e60becbc529fa43fb3da2b3a/ProfileCurrentProjectUpdated.png">
+ 
+___
+
 ### Goals & Interests 🧠
 - Gain a strong foundation in <ins>data exploration</ins> through interactive tools built with Streamlit, applying filtering, selection, and visualization techniques using libraries like Pandas and Seaborn.
 - Build and evaluate <ins>supervised learning models</ins> such as Logistic Regression and Decision Trees, focusing on user-guided training, model metrics, and visual interpretation using scikit-learn.
