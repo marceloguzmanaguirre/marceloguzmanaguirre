@@ -19,18 +19,19 @@ ___
 
 ___
 
-### 📁 Explore More from This Portfolio
+### 📁 Project Highlights
 
-This profile highlights projects developed as part of my *Intro to Data Science* coursework.  
-Feel free to explore the full repository to dive deeper into my current work—like the [Unsupervised ML App](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLUnsupervisedApp)—or revisit earlier portfolio updates that shaped my learning journey.
-
-🔗 [View Full Portfolio Repository](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio)
+This profile features work developed as part of my *Intro to Data Science* coursework. Explore the [repository](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio) to dive deeper into my current project—the Unsupervised ML App—or revisit earlier portfolio updates that shaped my learning journey.
 
 <a href="https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLUnsupervisedApp">
   <img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/e2c4d493e42436a611760edf290fdc56851b46ef/ProfileCurrentProjectUMLAppUpdated.png" alt="Unsupervised ML App">
 </a>
 
-#### 📚 Previous Portfolio Updates
+<div align="center">
+
+### 📚 Previous Portfolio Updates
+
+</div>
 
 | Update | Project | Description |
 |--------|---------|-------------|
