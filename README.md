@@ -29,7 +29,7 @@ These projects were developed as part of my *Introduction to Data Science* cours
 
 <div align="center">
 
-### 📚 Previous Portfolio Updates 📚
+### 📚 Previous Projects: Portfolio Updates 📚
 
 </div>
 
