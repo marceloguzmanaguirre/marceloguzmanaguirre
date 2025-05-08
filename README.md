@@ -24,7 +24,7 @@ ___
 These projects were developed as part of my *Introduction to Data Science* course at Notre Dame! The [portfolio repository](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio) documents my progression from data exploration to supervised and unsupervised learning!
 
 <a href="https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLUnsupervisedApp">
-  <img src="https://github.com/marceloguzmanaguirre/marceloguzmanaguirre/blob/e2c4d493e42436a611760edf290fdc56851b46ef/ProfileCurrentProjectUMLAppUpdated.png" alt="Unsupervised ML App">
+  <img src="https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/4dd7ba9ec13cfc8493ba789e93cc1e5983d0a1d4/MLUnsupervisedApp" alt="Unsupervised ML App">
 </a>
 
 <div align="center">
