@@ -37,7 +37,7 @@ These projects were developed as part of my *Introduction to Data Science* cours
 |--------|---------|-------------|
 | Portfolio Update 1 | [**NYC Air Quality Explorer**](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/blob/4342e78ff4a5474f1962e2379636e47cf8baeb9b/basic_streamlit_app/README.md) | Interactive Streamlit app to explore public air quality datasets with dynamic filtering by pollutant, time, and location. |
 | Portfolio Update 2 | [**ML Midterm Notebook**](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6d40be32c8e4f21419df7c2e196b4a04f6e2a088/TidyData-Project) | Jupyter notebook applying supervised learning and evaluation metrics using scikit-learn. |
-| Portfolio Update 3 | [**Supervised ML App**](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/6e0ec5821fc7c8bcd1883295b26912654cf08ac2/MLStreamlitApp) | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
+| Portfolio Update 3 | [**Supervised ML App**](https://github.com/marceloguzmanaguirre/GUZMANAGUIRRE-Data-Science-Portfolio/tree/baffd03ea0ccd87ae17d614240d605fe7de0d3f4/MLStreamlitApp) | Streamlit app for training classification models with uploadable datasets, feature selection, and visual performance outputs. |
 
 ___
 
